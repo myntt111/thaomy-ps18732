@@ -360,6 +360,10 @@ footer{ text-align: center;
 #menu{
     float: left;
 }
+.flex-container{
+    display: flex;
+    align-content:stretch;
+}
 
 
 
